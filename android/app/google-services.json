@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133960015307",
+    "project_id": "hotelkiosk-90a6b",
+    "storage_bucket": "hotelkiosk-90a6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133960015307:android:4ba908252c5e4b49486a4e",
+        "android_client_info": {
+          "package_name": "com.example.hotelkiosk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODXNVbkaDD0_K4RK4jHo5R1XBrm3XTGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
