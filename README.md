@@ -24,12 +24,6 @@ This app provides a kiosk workflow where guests can:
 - English and German localization support
 - Inactivity detection with auto-reset to splash/home flow
 
-## Detailed Documentation
-
-For complete project details (problem statement, architecture, feature-by-feature behavior, data model, flows, setup notes, and known gaps), see:
-
-- [DETAILED_DOCUMENTATION.md](./DETAILED_DOCUMENTATION.md)
-
 ## Tech Stack
 
 - Flutter / Dart
