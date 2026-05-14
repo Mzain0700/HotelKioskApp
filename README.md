@@ -1,6 +1,8 @@
-# Hotel Kiosk App
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/189e8d6b-1e3d-442e-871c-ee886463265b" />
 
-A Flutter-based self-service hotel kiosk application for on-site **check-in**, **check-out**, **service requests**, **room key QR generation**, and **Stripe-based payment flow**.
+# Hotel Self-Service Kiosk App — Smart Check-In, Payments & Room Key System
+
+A Flutter-based self-service hotel kiosk app that handles the full guest lifecycle without front-desk dependency. Guests validate bookings, check in, generate a QR room key, request paid services, settle charges via Stripe, extend their stay, and check out — all through a touch-optimized kiosk UI. Firebase Firestore powers real-time booking and payment data. Supports English and German localization, immersive fullscreen mode, and inactivity auto-reset for unattended lobby deployment.
 
 ## Purpose
 
